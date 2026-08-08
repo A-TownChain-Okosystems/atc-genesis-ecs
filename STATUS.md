@@ -17,11 +17,11 @@
 
 | Komponente | Status | Parse | Tests |
 |-----------|--------|-------|-------|
-| `src/ecs_core.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/system_scheduler.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/event_bus.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/query_engine.atc` | 📋 GEPLANT | ❌ | ❌ |
-| `src/component_registry.atc` | 📋 GEPLANT | ❌ | ❌ |
+| src/ecs_core.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/system_scheduler.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/event_bus.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/query_engine.atc | 📋 GEPLANT | ❌ | ❌ |
+| src/component_registry.atc | 📋 GEPLANT | ❌ | ❌ |
 
 ---
-*Auto-generiert 2026-08-08 · Aurora (MasterBrain · Base44)*
+*Auto-generiert 2026-08-08 · Aurora*

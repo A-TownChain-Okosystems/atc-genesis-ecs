@@ -14,11 +14,11 @@ atc-genesis-ecs/
 ├── CHANGELOG.md
 ├── FILE_REGISTER.md
 └── src/
-    ├── ecs_core.atc                    ECS core — entity, component, system management
-    ├── system_scheduler.atc            System scheduler — execution order, dependencies
-    ├── event_bus.atc                   Event bus — dispatch, subscribe, queue
-    ├── query_engine.atc                Entity queries — filter, sort, group
-    ├── component_registry.atc          Component registry — type registration, lookup
+    ├── ecs_core.atc    0 lines    Entity/Component/System
+    ├── system_scheduler.atc    0 lines    System execution order
+    ├── event_bus.atc    0 lines    Event dispatch
+    ├── query_engine.atc    0 lines    Entity queries
+    └── component_registry.atc    0 lines    Component registration
 ```
 
 ## Statistik
@@ -26,7 +26,7 @@ atc-genesis-ecs/
 | Metrik | Wert |
 |--------|------|
 | .atc Dateien | 5 |
-| Layer | L8 — Game Engine |
+| .atc Zeilen | 0 |
 | ATC-Standard | ATC-90 |
 | Sprint | 3.2 |
 | Status | 📋 GEPLANT |
